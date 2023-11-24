@@ -10,8 +10,15 @@ Kangasalan tilannekuvakirjan mallia voi käydä katsomassa [tästä linkistä](h
 
 Palautetta ja kehitysehdotuksia voi lähettää suoraan sähköpostilla <juuso.heinisuo@kangasala.fi>
 
-TULEVAT PÄIVITYKSET:
+<b>TULEVAT PÄIVITYKSET:</b>
 
-TEHDYT PÄIVITYKSET:
+Joulukuun loppupuoli
+
+
+<b>TEHDYT PÄIVITYKSET:</b>
+20.11.2023
+- Kuntien avainluvut tiedosto päivitetty - vuosi 2022
+- Väestön ennakkorakennetieto
+- Kesämökkitilastosta puuttuu yksi kunta
 
 
