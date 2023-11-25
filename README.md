@@ -18,7 +18,6 @@ Joulukuun loppupuoli
 <b>TEHDYT PÄIVITYKSET:</b>
 20.11.2023
 - Kuntien avainluvut tiedosto päivitetty - vuosi 2022
-- Väestön ennakkorakennetieto
-- Kesämökkitilastosta puuttuu yksi kunta
+- Väestön ennakkorakennetieto 2023M10
 
 
